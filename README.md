@@ -2,6 +2,9 @@
 Chains of Autoreplicative Random Forests for SNP imputation
 (High-dimensional and low-sampled categorical data, features are ordered)
 
+This is a code implementation of the algorithm from the paper https://doi.org/10.48550/arXiv.2301.00595,
+for any questions you can contact me via <em>ekaterina \<dot\> antonenko \<at\> minesparis \<dot\> psl \<dot\> eu </em>
+
 
 
 ### ImputationChains.py: 
